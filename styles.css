@@ -1,0 +1,91 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+body{
+  background-color: hsl(217, 54%, 11%);
+}
+h3{
+  color:white;
+}
+.cards{
+  width:20%;
+  background-color: hsl(216, 50%, 16%);
+position: relative;
+top:100px;
+left: 600px;
+  border-radius: 10px;
+  box-shadow: 2px 2px 10px black;
+
+
+}
+img{
+  width: 80%;
+margin: 10%;
+border-radius: 10px;
+}
+.Title{
+  text-align: left;
+  margin-bottom: 15px;
+  margin-left: 22px;
+}
+.discription{
+  color: hsl(215, 51%, 70%);
+  margin: 22px;
+
+}
+.dis{
+  margin: 22px 22px 10px 22px;
+}
+svg{
+  margin-right: 5px;
+  position: relative;
+  top: 3px;
+}
+.cyan{
+  color: hsl(178, 100%, 50%);
+}
+.clock{
+  position: relative;
+  left: 170px;
+  bottom: 22px;
+  color:hsl(215, 51%, 70%);
+}
+.End{
+  margin:22px;
+
+
+
+}
+hr{
+  border-top-style: none;
+  border-bottom-color: hsl(215, 32%, 27%);
+  border-width: 1px;
+  width: 85%;
+  position: relative;
+  left: 22px;
+}
+.avatar{
+  width: 10%;
+  position:relative;
+  bottom: 15px;
+  right: 25px;
+}
+.last{
+  position: relative;
+  bottom: 65px;
+  left: 40px;
+  color: hsl(215, 51%, 70%);
+
+}
+.attribution{
+  position: relative;
+  top: 100px;
+}
+p:hover{
+  color: green;
+}
+h3:hover{
+  color: red;
+}
